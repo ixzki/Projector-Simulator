@@ -38,7 +38,7 @@ pnpm build
 
 你可以点击下方按钮进行一键部署（需登录 Vercel）：
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/ixzki/Projects)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/ixzki/Projector-Simulator)
 
 
 ## 🛠️ 技术栈
